@@ -1,0 +1,6 @@
+{
+  "name": "GadgetHub - Mobile Phones & Accessories",
+  "description": "3D animated mobile shop and accessories website featuring an interactive Three.js rotating smartphone, floating 3D accessories, product catalog, cart, and contact form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
